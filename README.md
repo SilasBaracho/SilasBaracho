@@ -18,7 +18,39 @@
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silas-baracho-a266b0147/)
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/silas_baracho/)
 
-<!--   databases   -->
+<!--   🔧frameWorks   -->
+🔧 Languages ​​and FrameWorks
+<p>
+  <a>
+    <img src="https://skillicons.dev/icons?i=spring,kotlin,java,maven,gradle" />
+  </a>
+</p>
+
+<!--   🛠tools   -->
+🛠 My tools
+<p>
+  <a>
+    <img src="https://skillicons.dev/icons?i=vscode,idea,postman,git,bash,powershell" />
+  </a>
+</p>
+
+<!--   ☁️cloud   -->
+☁️ Cloud
+<p>
+  <a>
+    <img src="https://skillicons.dev/icons?i=aws,gcp,heroku" />
+  </a>
+</p>
+
+<!--   ⚙devops   -->
+⚙ DevOps
+<p>
+  <a>
+    <img src="https://skillicons.dev/icons?i=jenkins,docker,kubernetes,kafka" />
+  </a>
+</p>
+
+<!--   🛢databases   -->
 🛢 Databases
 <p>
   <a>
