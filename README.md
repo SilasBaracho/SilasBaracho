@@ -1,7 +1,13 @@
 ### Hello! I am Silas Baracho 👋 
 
 -   🌎 I'm from Recife, PE - Brasil
--   💻 Software Enginee
+-   💻 Software Engineer
+-   💬 I love being with my family and friends in my free time. Also, I have a great interest in music and am always open to learning new things. I like to constantly challenge myself, both personally and professionally, as I believe that continuous growth is essential.
+
+ 
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silas-baracho-a266b0147/)
+[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/silas_baracho/)
+
 
 <!--   📊stats   -->
 <h2> 📊 Github Stats </h2>
@@ -12,11 +18,6 @@
   <img height="152em" src="https://github-readme-stats.vercel.app/api?username=SilasBaracho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilasBaracho&layout=compact&theme=dark&hide=html,css,scss" />
 </div>
-
-<br>
-
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silas-baracho-a266b0147/)
-[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/silas_baracho/)
 
 <!--   🔧frameWorks   -->
 🔧 Languages ​​and FrameWorks
